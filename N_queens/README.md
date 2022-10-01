@@ -1,3 +1,3 @@
-# N-Queen Problem Solver Using Recursion
-## Input: n
-## Output: all the solutions to the n-queen problem
+# N-Queens Problem Solver Using Recursion
+## Input: size of the board n
+## Output: all the solutions to the n-queens problem
