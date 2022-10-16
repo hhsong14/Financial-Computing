@@ -1,1 +1,1 @@
-# Stable Marriage Problem Solver via Gale-Shapley Algorithm
+# Stable Marriage Problem Solver Using Gale-Shapley Algorithm
