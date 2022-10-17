@@ -136,7 +136,7 @@ class stable_marriage_instance
                 Preference_of_men.push_back(temp);
                 Preference_of_women.push_back(temp);
             }
-            //read Men preferences
+            
             for (int i = 0; i < no_of_couples; i++)
             {
                 for (int j = 0; j < no_of_couples; j++)
@@ -146,7 +146,7 @@ class stable_marriage_instance
                     Preference_of_men[i].push_back(value);
                 }
             }
-            //Women preferences
+            
             for (int i = 0; i < no_of_couples; i++)
             {
                 for (int j = 0; j < no_of_couples; j++)
